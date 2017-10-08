@@ -1,0 +1,12 @@
+
+ platform :ios, '9.0'
+
+target 'JJGPUImage_demo1' do
+  
+  pod ‘GPUImage’
+
+  use_frameworks!
+
+  # Pods for JJGPUImage_demo1
+
+end
